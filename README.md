@@ -27,9 +27,10 @@ pip install numpy matplotlib mpmath
 ## 🚀 Como Executar o Código
 
 Com as bibliotecas instaladas, clone ou baixe este repositório e execute o script principal pelo terminal ou pelo VS Code:
+(Ou então simplesmente clique em Run no seu editor de código)
 
 ```bash
-python takum_vector_sim9.py
+python takum_vector_sim_final.py
 ```
 
 ---
